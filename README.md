@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on PHP Laravel Project.
+- 🔭 I’m currently working on PHP Laravel Project
 - 🌱 I’m currently learning
 - 👯 I’m lookingfor long-term collaboration
 - 🤔 I’m looking for help with 
